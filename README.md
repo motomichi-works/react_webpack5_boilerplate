@@ -1,0 +1,2 @@
+# react_webpack5_boilerplate
+react+webpack5で開発をするためのboilerplateを作っていくリポジトリです。
