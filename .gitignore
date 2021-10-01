@@ -1,2 +1,5 @@
 node_modules/
 public/javascripts/pages
+
+/.vscode/**/*
+!/.vscode/extensions.json
