@@ -1,0 +1,11 @@
+.App {
+  display: block;
+
+  .App__Heading {
+    font-size: 32px;
+
+    &.App__Heading--hoge {
+      font-size: 10px;
+    }
+  }
+}
